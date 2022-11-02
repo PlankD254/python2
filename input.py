@@ -3,13 +3,11 @@
 
 from traceback import print_tb
 
-
 print("User profile Applcation")
 
 first_name=input("First Name: ")
 Last_name=input("Last Name:"  ) 
 occupation=input("What do you do? : ")
-
 #print("Your fisrt name is "+ first_name)
 #print("Your last name is "+ Last_name)
 #print("What do you do? "+ occupation)
@@ -20,3 +18,4 @@ print(f"Your first name is {first_name} and your job is {occupation} ")
 age=int(input("Please enter your age: " ))
 
 print(f"In two years, your ages will be {age + 2} ")
+
