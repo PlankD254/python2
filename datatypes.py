@@ -2,9 +2,6 @@
 
 #primitive datatypes
 
-from time import process_time_ns
-from types import NoneType
-
 
 x=5
 y=2.5
